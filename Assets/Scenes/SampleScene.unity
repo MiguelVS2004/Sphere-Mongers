@@ -800,6 +800,29 @@ MonoBehaviour:
       m_Action: Player Controls
       m_Flags: 8
     m_Flags: 0
+  magnetRadius: 10
+  pullForce: 15
+  magneticTags:
+  - Ball
+  - BigBall
+  magnetAction:
+    m_Name: Magnet
+    m_Type: 0
+    m_ExpectedControlType: 
+    m_Id: 3546f629-45bf-444c-b537-fb725594da8b
+    m_Processors: 
+    m_Interactions: 
+    m_SingletonActionBindings:
+    - m_Name: 
+      m_Id: bfa1d9a2-ec2f-499b-8656-63412000dea2
+      m_Path: <Keyboard>/space
+      m_Interactions: 
+      m_Processors: 
+      m_Groups: 
+      m_Action: Magnet
+      m_Flags: 0
+    m_Flags: 0
+  showDebugRadius: 1
 --- !u!136 &2039656054
 CapsuleCollider:
   m_ObjectHideFlags: 0
