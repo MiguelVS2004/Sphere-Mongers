@@ -101,7 +101,7 @@ Material:
     - _EnvironmentReflections: 1
     - _FloatPower: 0
     - _FresnelFloatPower: 1
-    - _FresnelPower: -1
+    - _FresnelPower: -0.5
     - _Fresnel_Power: 0.31
     - _GlossMapScale: 0
     - _Glossiness: 0
