@@ -9,3 +9,10 @@ MonoImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107400
+  packageName: FREE Skybox Extended Shader
+  packageVersion: 2.4.0
+  assetPath: Assets/BOXOPHOBIC/Skybox Cubemap Extended/Core/Editor/SkyboxExtendedWindows.cs
+  uploadId: 787052

@@ -5,3 +5,10 @@ PrefabImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107400
+  packageName: FREE Skybox Extended Shader
+  packageVersion: 2.4.0
+  assetPath: Assets/BOXOPHOBIC/Utils/Scene/Light Standard Day.prefab
+  uploadId: 787052
