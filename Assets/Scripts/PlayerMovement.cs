@@ -38,6 +38,11 @@ public class PlayerMovement : MonoBehaviour
     {
         moveDirection = playerControls.ReadValue<Vector3>();
 
+        if (moveDirection.sqrMagnitude > 1f)
+        {
+            moveDirection.Normalize();
+        }
+
         if (magnetAction.IsPressed())
         {
             ApplyMagnetEffect();
